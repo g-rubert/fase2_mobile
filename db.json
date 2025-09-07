@@ -1,50 +1,48 @@
-[
-  {
-    "posts": [
-      { "id": 1, "title": "Post 1" },
-      { "id": 2, "title": "Post 2" },
-      { "id": 3, "title": "Post 3" }
-    ],
-    "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 },
-      { "id": 2, "body": "some comment", "postId": 1 }
-    ],
-    "photos": [
-      {
-        "albumId": 1,
-        "id": 1,
-        "title": "accusamus beatae ad facilis cum similique qui sunt",
-        "url": "https://raw.githubusercontent.com/g-rubert/fase2_mobile/refs/heads/master/photo.png",
-        "thumbnailUrl": "https://raw.githubusercontent.com/g-rubert/fase2_mobile/refs/heads/master/photo.png"
-      },
-      {
-        "albumId": 1,
-        "id": 2,
-        "title": "reprehenderit est deserunt velit ipsam",
-        "url": "https://raw.githubusercontent.com/g-rubert/fase2_mobile/refs/heads/master/photo.png",
-        "thumbnailUrl": "https://raw.githubusercontent.com/g-rubert/fase2_mobile/refs/heads/master/photo.png"
-      },
-      {
-        "albumId": 1,
-        "id": 3,
-        "title": "officia porro iure quia iusto qui ipsa ut modi",
-        "url": "https://raw.githubusercontent.com/g-rubert/fase2_mobile/refs/heads/master/photo.png",
-        "thumbnailUrl": "https://raw.githubusercontent.com/g-rubert/fase2_mobile/refs/heads/master/photo.png"
-      },
-      {
-        "albumId": 1,
-        "id": 4,
-        "title": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
-        "url": "https://raw.githubusercontent.com/g-rubert/fase2_mobile/refs/heads/master/photo.png",
-        "thumbnailUrl": "https://raw.githubusercontent.com/g-rubert/fase2_mobile/refs/heads/master/photo.png"
-      },
-      {
-        "albumId": 1,
-        "id": 5,
-        "title": "natus nisi omnis corporis facere molestiae rerum in",
-        "url": "https://raw.githubusercontent.com/g-rubert/fase2_mobile/refs/heads/master/photo.png",
-        "thumbnailUrl": "https://raw.githubusercontent.com/g-rubert/fase2_mobile/refs/heads/master/photo.png"
-      }
-    ]
-  }
-]
+{
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "photos": [
+    {
+      "albumId": 1,
+      "id": 1,
+      "title": "accusamus beatae ad facilis cum similique qui sunt",
+      "url": "https://raw.githubusercontent.com/g-rubert/fase2_mobile/refs/heads/master/photo.png",
+      "thumbnailUrl": "https://raw.githubusercontent.com/g-rubert/fase2_mobile/refs/heads/master/photo.png"
+    },
+    {
+      "albumId": 1,
+      "id": 2,
+      "title": "reprehenderit est deserunt velit ipsam",
+      "url": "https://raw.githubusercontent.com/g-rubert/fase2_mobile/refs/heads/master/photo.png",
+      "thumbnailUrl": "https://raw.githubusercontent.com/g-rubert/fase2_mobile/refs/heads/master/photo.png"
+    },
+    {
+      "albumId": 1,
+      "id": 3,
+      "title": "officia porro iure quia iusto qui ipsa ut modi",
+      "url": "https://raw.githubusercontent.com/g-rubert/fase2_mobile/refs/heads/master/photo.png",
+      "thumbnailUrl": "https://raw.githubusercontent.com/g-rubert/fase2_mobile/refs/heads/master/photo.png"
+    },
+    {
+      "albumId": 1,
+      "id": 4,
+      "title": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
+      "url": "https://raw.githubusercontent.com/g-rubert/fase2_mobile/refs/heads/master/photo.png",
+      "thumbnailUrl": "https://raw.githubusercontent.com/g-rubert/fase2_mobile/refs/heads/master/photo.png"
+    },
+    {
+      "albumId": 1,
+      "id": 5,
+      "title": "natus nisi omnis corporis facere molestiae rerum in",
+      "url": "https://raw.githubusercontent.com/g-rubert/fase2_mobile/refs/heads/master/photo.png",
+      "thumbnailUrl": "https://raw.githubusercontent.com/g-rubert/fase2_mobile/refs/heads/master/photo.png"
+    }
+  ]
+}
